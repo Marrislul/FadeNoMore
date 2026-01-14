@@ -1,3 +1,2 @@
-v1.0.2
-- update automatic packaging
-
+v1.1.0:
+- added support for TBC Classic (2.5.5)
