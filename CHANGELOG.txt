@@ -1,2 +1,2 @@
-v1.1.1:
-- added Midnight support
+v1.1.2:
+- update to 5.5.3
