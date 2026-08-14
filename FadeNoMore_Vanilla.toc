@@ -1,4 +1,4 @@
-## Interface: 11508
+## Interface: 11509
 ## Title: Fade No More
 ## Notes: Stop chat messages from fading away. Never miss a message again!
 ## Author: Marris
